@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomMVVMCrudWtthHilt</string>
+    <string name="subscriber_name">Subscriber name</string>
+    <string name="subscriber_email">Subscriber email</string>
+</resources>
